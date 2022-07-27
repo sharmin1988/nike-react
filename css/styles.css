@@ -7,3 +7,6 @@
 .card-color{
     background: #F1F1F1;
 }
+.image-size img{
+    width: 80px;
+}
